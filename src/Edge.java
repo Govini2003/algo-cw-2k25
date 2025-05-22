@@ -24,3 +24,4 @@ public class Edge {
         return (vertex == from) ? to : from;
     }
 }
+
