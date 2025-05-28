@@ -122,7 +122,9 @@ java Main
 Ensure all related classes (`Edge`, `FlowNetwork`, `NetworkParser`, etc.) are in the same directory or properly referenced.
 
 ![image](https://github.com/user-attachments/assets/8da7ec92-0d67-487f-a484-99bc5e7ac819)
-![image](https://github.com/user-attachments/assets/39ee9f4e-6e33-4711-beff-6f0ef42e737a)
+
+![image](https://github.com/user-attachments/assets/17a7bd27-b85b-46ba-8807-d86d5415b84b)
+
 
 ---
 
