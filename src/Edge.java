@@ -1,6 +1,7 @@
 public class Edge {
     int from, to, capacity, flow;
 
+    
     public Edge(int from, int to, int capacity) {
         this.from = from;
         this.to = to;
